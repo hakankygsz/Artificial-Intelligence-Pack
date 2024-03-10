@@ -1,6 +1,6 @@
 # Flatios Artifical Intellange Pack
 
-- **Technologies:** ```OpenCV, MediaPipe```
+- **Technologies:** ```OpenCV, MediaPipe, DLib```
 - **supports certain protocols** ```RTSP```
 
 ## Support
