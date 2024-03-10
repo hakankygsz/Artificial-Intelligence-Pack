@@ -1,4 +1,4 @@
-# Flatios Artifical Intellange Pack
+# Flatios Artificial Intelligence Pack
 
 - **Technologies:** ```OpenCV, MediaPipe, DLib```
 - **supports certain protocols** ```RTSP```
