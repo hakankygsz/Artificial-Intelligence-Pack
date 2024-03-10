@@ -1,3 +1,3 @@
 # Flatios Artifical Intellange Pack
 
-**technologies:** OpenCV, MediaPipe
+**Technologies:** OpenCV, MediaPipe
